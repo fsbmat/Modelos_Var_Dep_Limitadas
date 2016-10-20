@@ -36,7 +36,7 @@ Como sabemos, variável dependente é uma medida que resulta do valor de outra m
 
 * Se quisermos relacionar o efeito da educação sobre o rendimento para medir o efeito do nível de escolaridade sobre a renda anual, a variável independente é o nível de escolaridade e a variável dependente é a renda anual;
 
-* Numa pesquisa sobre rendimento e horas de trabalho, nossa variável dependente é também o rendimento e a variável independente as horas de trabalho;
+* rendimento versus horas de trabalho;
 
 * etc.
 
