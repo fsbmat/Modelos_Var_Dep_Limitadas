@@ -911,9 +911,9 @@ summary(fit7)
 ```
 
 
+Maiores informações podem ser obtidas em:
 
-
-
+@heckman1976common, @heckman1977sample, @mroz1987sensitivity, @winship1992models, @puhani2000heckman, @greene2003econometric, @cameron2009microeconomics e @marchenko2012heckman.
 
 
 
